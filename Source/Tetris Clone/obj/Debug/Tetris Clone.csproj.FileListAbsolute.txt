@@ -1,0 +1,13 @@
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Tetris Clone\bin\Debug\Tetris Clone.dll
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Tetris Clone\bin\Debug\Tetris Clone.pdb
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Tetris Clone\obj\Debug\Tetris Clone.csprojResolveAssemblyReference.cache
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Tetris Clone\obj\Debug\Tetris Clone.dll
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Tetris Clone\obj\Debug\Tetris Clone.pdb
+C:\Development\Tetris Clone\Tetris Clone\bin\Debug\Tetris Clone.dll
+C:\Development\Tetris Clone\Tetris Clone\bin\Debug\Tetris Clone.pdb
+C:\Development\Tetris Clone\Tetris Clone\obj\Debug\Tetris Clone.dll
+C:\Development\Tetris Clone\Tetris Clone\obj\Debug\Tetris Clone.pdb
+G:\Tetris Clone\Tetris Clone\bin\Debug\Tetris Clone.dll
+G:\Tetris Clone\Tetris Clone\bin\Debug\Tetris Clone.pdb
+G:\Tetris Clone\Tetris Clone\obj\Debug\Tetris Clone.dll
+G:\Tetris Clone\Tetris Clone\obj\Debug\Tetris Clone.pdb

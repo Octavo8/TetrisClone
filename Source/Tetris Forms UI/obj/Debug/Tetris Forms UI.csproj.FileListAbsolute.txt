@@ -1,0 +1,22 @@
+C:\Development\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Forms UI.exe.config
+C:\Development\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Forms UI.exe
+C:\Development\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Forms UI.pdb
+C:\Development\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Clone.dll
+C:\Development\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Clone.pdb
+C:\Development\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris Forms UI.csprojResolveAssemblyReference.cache
+C:\Development\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris_Forms_UI.Form1.resources
+C:\Development\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris_Forms_UI.Properties.Resources.resources
+C:\Development\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris Forms UI.csproj.GenerateResource.Cache
+C:\Development\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris Forms UI.exe
+C:\Development\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris Forms UI.pdb
+G:\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Forms UI.exe.config
+G:\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Forms UI.exe
+G:\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Forms UI.pdb
+G:\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Clone.dll
+G:\Tetris Clone\Tetris Forms UI\bin\Debug\Tetris Clone.pdb
+G:\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris Forms UI.csprojResolveAssemblyReference.cache
+G:\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris_Forms_UI.Form1.resources
+G:\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris_Forms_UI.Properties.Resources.resources
+G:\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris Forms UI.csproj.GenerateResource.Cache
+G:\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris Forms UI.exe
+G:\Tetris Clone\Tetris Forms UI\obj\Debug\Tetris Forms UI.pdb

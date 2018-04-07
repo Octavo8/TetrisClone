@@ -1,0 +1,24 @@
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Test Display\bin\Debug\Test Display.exe.config
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Test Display\bin\Debug\Test Display.exe
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Test Display\bin\Debug\Test Display.pdb
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Test Display\bin\Debug\Tetris Clone.dll
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Test Display\bin\Debug\Tetris Clone.pdb
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Test Display\obj\Debug\Test Display.csprojResolveAssemblyReference.cache
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Test Display\obj\Debug\Test Display.exe
+c:\users\octavo\documents\visual studio 2013\Projects\Tetris Clone\Test Display\obj\Debug\Test Display.pdb
+C:\Development\Tetris Clone\Test Display\bin\Debug\Test Display.exe.config
+C:\Development\Tetris Clone\Test Display\obj\Debug\Test Display.exe
+C:\Development\Tetris Clone\Test Display\obj\Debug\Test Display.pdb
+C:\Development\Tetris Clone\Test Display\obj\Debug\Test Display.csprojResolveAssemblyReference.cache
+C:\Development\Tetris Clone\Test Display\bin\Debug\Test Display.exe
+C:\Development\Tetris Clone\Test Display\bin\Debug\Test Display.pdb
+C:\Development\Tetris Clone\Test Display\bin\Debug\Tetris Clone.dll
+C:\Development\Tetris Clone\Test Display\bin\Debug\Tetris Clone.pdb
+G:\Tetris Clone\Test Display\bin\Debug\Test Display.exe.config
+G:\Tetris Clone\Test Display\bin\Debug\Test Display.exe
+G:\Tetris Clone\Test Display\bin\Debug\Test Display.pdb
+G:\Tetris Clone\Test Display\bin\Debug\Tetris Clone.dll
+G:\Tetris Clone\Test Display\bin\Debug\Tetris Clone.pdb
+G:\Tetris Clone\Test Display\obj\Debug\Test Display.csprojResolveAssemblyReference.cache
+G:\Tetris Clone\Test Display\obj\Debug\Test Display.exe
+G:\Tetris Clone\Test Display\obj\Debug\Test Display.pdb
